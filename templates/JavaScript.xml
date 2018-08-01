@@ -1,0 +1,12 @@
+<templateSet group="JavaScript">
+  <template name="target" value="var t = e.target || e.srcElement;" description="Выделение элемента DOM из события" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="_t" value="var _this = this;" description="Получение глобального объекта в переменную" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>

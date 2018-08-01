@@ -1,0 +1,71 @@
+<templateSet group="MasProject">
+  <template name="Mc" value="MSP.create('$TAGNAME$', {&#10;    $END$&#10;})" description="MSP.create" toReformat="false" toShortenFQNames="true">
+    <variable name="TAGNAME" expression="" defaultValue="&quot;div&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="McPr" value="props:{&#10;    $NAME$:$VALUE$,&#10;    $END$&#10;}" description="props MSP.create" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;className&quot;" alwaysStopAt="true" />
+    <variable name="VALUE" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="McEv" value="events:{&#10;    $NAME$:function () {&#10;        $END$&#10;    }&#10;}" description="events MSP.create" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;click&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="Majax" value="MSP.ajax(&#10;    '$MNAME$',&#10;    '$ACTION$',&#10;    $ARRDATA$,&#10;    {&#10;        callback:function () {&#10;            $END$&#10;        }&#10;    }&#10;);" description="MSP.ajax" toReformat="false" toShortenFQNames="true">
+    <variable name="MNAME" expression="" defaultValue="&quot;main&quot;" alwaysStopAt="true" />
+    <variable name="ACTION" expression="" defaultValue="&quot;action&quot;" alwaysStopAt="true" />
+    <variable name="ARRDATA" expression="" defaultValue="&quot;arr&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="arr" value="arr = {&#10;    $END$&#10;};" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="itarm" value="for (var $INDEX$ = $ARRAY$.length; $INDEX$--;) {&#10;    if (!$ARRAY$[$INDEX$]) continue;&#10;    var $VAR$ = $ARRAY$[$INDEX$];&#10;    $END$&#10;}" description="Iterate elements of array" toReformat="true" toShortenFQNames="true">
+    <variable name="INDEX" expression="jsSuggestIndexName()" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <variable name="ARRAY" expression="jsArrayVariable()" defaultValue="&quot;array&quot;" alwaysStopAt="true" />
+    <variable name="VAR" expression="jsSuggestVariableName()" defaultValue="&quot;o&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($LOGIC$) {&#10;    $END$&#10;}" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="LOGIC" expression="" defaultValue="&quot;true&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="ifMSP" value="(function (window){&#10;    if (!window.MSP) return;&#10;    var MSP = window.MSP;&#10;    if (MSP.$NAME$) return;&#10;    MSP.$NAME$ = function ($ATTRS$){&#10;        $END$&#10;    }&#10;})(window);" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="&quot;nameModule&quot;" alwaysStopAt="true" />
+    <variable name="ATTRS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="te" value="e = e || window.event;&#10;var t = e.target || e.srcElement;&#10;$END$" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="deb" value="debugger;&#10;$END$" description="debugger;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="overflow" value="overflow: hidden;&#10;text-overflow: ellipsis;&#10;white-space: nowrap;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CSS_RULESET_LIST" value="true" />
+    </context>
+  </template>
+</templateSet>

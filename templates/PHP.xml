@@ -1,0 +1,7 @@
+<templateSet group="PHP">
+  <template name="vard" value="print_r('&lt;pre&gt;');var_dump($END$);print_r('&lt;/pre&gt;');" description="var_dump+print_r" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

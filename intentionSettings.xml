@@ -1,0 +1,6 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="CSS/Update background-image size" />
+    <ignoreAction name="CSS/Create Selector" />
+  </component>
+</application>
