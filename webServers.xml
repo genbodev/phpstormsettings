@@ -146,6 +146,9 @@
       <webServer id="a08d0f36-5198-48e0-aaeb-29a560714d35" name="kpmgkp.local" url="http://kpmgkp.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="203f3595-52ef-4e13-8dcf-4509536b6a05" name="starliner-trunk" url="http://starliner-trunk.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
