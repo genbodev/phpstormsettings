@@ -149,6 +149,9 @@
       <webServer id="203f3595-52ef-4e13-8dcf-4509536b6a05" name="starliner-trunk" url="http://starliner-trunk.local">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="452b7209-fd9a-427c-b3ff-745888511be6" name="trademux-framework" url="http://trademux-framework">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
