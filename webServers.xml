@@ -152,6 +152,9 @@
       <webServer id="452b7209-fd9a-427c-b3ff-745888511be6" name="trademux-framework" url="http://trademux-framework">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5e27750c-d909-49f5-b35b-485650a13724" name="marketsinvest" url="http://marketsinvest">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
