@@ -155,6 +155,9 @@
       <webServer id="5e27750c-d909-49f5-b35b-485650a13724" name="marketsinvest" url="http://marketsinvest">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="0e074767-7dde-493b-bffe-5c3d6a815c5d" name="aa.panda.api" url="http://aa.panda.api">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
