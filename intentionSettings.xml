@@ -2,5 +2,7 @@
   <component name="IntentionManagerSettings">
     <ignoreAction name="CSS/Update background-image size" />
     <ignoreAction name="CSS/Create Selector" />
+    <ignoreAction name="PHP/Generate PHPDoc for function" />
+    <ignoreAction name="PHP/Symfony2MethodCreateService" />
   </component>
 </application>
