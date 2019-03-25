@@ -158,6 +158,9 @@
       <webServer id="0e074767-7dde-493b-bffe-5c3d6a815c5d" name="aa.panda.api" url="http://aa.panda.api">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="52687eed-4ef5-49b1-8a67-566f46750f62" name="tlaravel.loc" url="http://tlaravel.loc/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
