@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\modules\geography\controllers\CityBase.php [starliner.local]'" />
+    <option name="defaultScopeName" value="File '...\modules\geography\controllers\CityBase.php [starliner.local]'" />
+    <option name="SEARCH_SCOPE" value="File '...\modules\geography\controllers\CityBase.php [starliner.local]'" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
