@@ -12,10 +12,10 @@
     <mask>*.mxml</mask>
     <mask>*transfe*</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.yml</mask>
     <mask>*.po</mask>
     <mask>*.less</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
