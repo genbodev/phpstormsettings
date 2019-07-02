@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="1430361: Исправить механизм скрытия НДС для клиентских ролей." />
     <option name="defaultScopeName" value="1430361: Исправить механизм скрытия НДС для клиентских ролей." />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="1430361: Исправить механизм скрытия НДС для клиентских ролей." />
     <mask>*.properties</mask>
     <mask>*.html</mask>
