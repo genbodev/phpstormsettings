@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="1426185: Просмотр тарифа недоступен для клиентов субагента" />
-    <option name="defaultScopeName" value="1426185: Просмотр тарифа недоступен для клиентов субагента" />
-    <option name="SEARCH_SCOPE" value="1426185: Просмотр тарифа недоступен для клиентов субагента" />
+    <option name="customScope" value="1430829: Поправить печать маршрутной квитанции" />
+    <option name="defaultScopeName" value="1430829: Поправить печать маршрутной квитанции" />
+    <option name="SEARCH_SCOPE" value="1430829: Поправить печать маршрутной квитанции" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
