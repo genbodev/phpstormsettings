@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="1427061: Бесконечная загрузка изменения вложенных в заказ файлов" />
+    <option name="defaultScopeName" value="1427061: Бесконечная загрузка изменения вложенных в заказ файлов" />
+    <option name="SEARCH_SCOPE" value="1427061: Бесконечная загрузка изменения вложенных в заказ файлов" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
