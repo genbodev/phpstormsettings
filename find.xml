@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="1409447: В избранном выводится код наличия бренда" />
-    <option name="defaultScopeName" value="1409447: В избранном выводится код наличия бренда" />
-    <option name="SEARCH_SCOPE" value="1409447: В избранном выводится код наличия бренда" />
+    <option name="customScope" value="1409499: В избранном для менеджера добавить кнопку сохранения" />
+    <option name="defaultScopeName" value="1409499: В избранном для менеджера добавить кнопку сохранения" />
+    <option name="SEARCH_SCOPE" value="1409499: В избранном для менеджера добавить кнопку сохранения" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
