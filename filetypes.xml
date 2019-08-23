@@ -5,6 +5,7 @@
       <mapping pattern=".gitkeep" type="Native" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
+      <mapping pattern="edfwsfsf" type="PLAIN_TEXT" />
       <mapping ext="json___jb_tmp___" type="PLAIN_TEXT" />
       <mapping ext="gz" type="PLAIN_TEXT" />
       <mapping ext="sccs" type="SCSS" />
