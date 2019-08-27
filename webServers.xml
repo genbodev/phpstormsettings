@@ -161,6 +161,12 @@
       <webServer id="52687eed-4ef5-49b1-8a67-566f46750f62" name="tlaravel.loc" url="http://tlaravel.loc/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="19aec1ec-2dde-4da6-827f-86f5c74d0516" name="skybit.local" url="http://skybit.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="5bed06b7-a075-4562-92c1-ca2aa58af008" name="skybit.local" url="http://skybit.local">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
