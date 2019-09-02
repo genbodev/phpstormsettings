@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="1329091: Реализовать возможность сворачивания в одну строку авиауслуг в избранном" />
+    <option name="defaultScopeName" value="1329091: Реализовать возможность сворачивания в одну строку авиауслуг в избранном" />
+    <option name="SEARCH_SCOPE" value="1329091: Реализовать возможность сворачивания в одну строку авиауслуг в избранном" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
