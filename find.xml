@@ -14,8 +14,8 @@
     <mask>*.css</mask>
     <mask>*.po</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.less</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
