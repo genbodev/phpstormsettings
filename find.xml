@@ -3,6 +3,7 @@
     <option name="customScope" value="1942839: Поменять текст на баннере на дашборде" />
     <option name="defaultScopeName" value="1942839: Поменять текст на баннере на дашборде" />
     <option name="SEARCH_SCOPE" value="1942839: Поменять текст на баннере на дашборде" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -14,9 +15,9 @@
     <mask>*.css</mask>
     <mask>*.po</mask>
     <mask>*.less</mask>
-    <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*.yml</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
