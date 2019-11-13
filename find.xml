@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="1942839: Поменять текст на баннере на дашборде" />
-    <option name="defaultScopeName" value="1942839: Поменять текст на баннере на дашборде" />
-    <option name="SEARCH_SCOPE" value="1942839: Поменять текст на баннере на дашборде" />
+    <option name="customScope" value="1931627: Настройки компании: параметр без выбора пустого значения" />
+    <option name="defaultScopeName" value="1931627: Настройки компании: параметр без выбора пустого значения" />
+    <option name="SEARCH_SCOPE" value="1931627: Настройки компании: параметр без выбора пустого значения" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
