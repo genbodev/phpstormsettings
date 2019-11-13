@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="1950443: Обращения в тех. поддержку приходят без данных о браузере и обратного адреса" />
-    <option name="defaultScopeName" value="1950443: Обращения в тех. поддержку приходят без данных о браузере и обратного адреса" />
-    <option name="SEARCH_SCOPE" value="1950443: Обращения в тех. поддержку приходят без данных о браузере и обратного адреса" />
+    <option name="customScope" value="1952643: Счета на предоплату выставляются на СЛ а не на компанию." />
+    <option name="defaultScopeName" value="1952643: Счета на предоплату выставляются на СЛ а не на компанию." />
+    <option name="SEARCH_SCOPE" value="1952643: Счета на предоплату выставляются на СЛ а не на компанию." />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
