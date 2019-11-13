@@ -3,7 +3,6 @@
     <option name="customScope" value="1950443: Обращения в тех. поддержку приходят без данных о браузере и обратного адреса" />
     <option name="defaultScopeName" value="1950443: Обращения в тех. поддержку приходят без данных о браузере и обратного адреса" />
     <option name="SEARCH_SCOPE" value="1950443: Обращения в тех. поддержку приходят без данных о браузере и обратного адреса" />
-    <option name="FILE_MASK" value="*.yml" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
