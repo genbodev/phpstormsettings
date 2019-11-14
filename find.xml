@@ -3,6 +3,7 @@
     <option name="customScope" value="1948919: ТБ: в 1С не передается dbhotel_id" />
     <option name="defaultScopeName" value="1948919: ТБ: в 1С не передается dbhotel_id" />
     <option name="SEARCH_SCOPE" value="1948919: ТБ: в 1С не передается dbhotel_id" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
