@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="1948919: ТБ: в 1С не передается dbhotel_id" />
     <option name="defaultScopeName" value="1948919: ТБ: в 1С не передается dbhotel_id" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="1948919: ТБ: в 1С не передается dbhotel_id" />
     <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
