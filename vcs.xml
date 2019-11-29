@@ -1,36 +1,12 @@
 <application>
-  <component name="GitRememberedInputs">
-    <option name="visitedUrls">
+  <component name="Vcs.Log.App.Settings">
+    <option name="COLUMN_ORDER">
       <list>
-        <UrlAndUserName>
-          <option name="url" value="ssh://admin_ftp_11@task.masbook.pro/var/www/vhosts/masbook.pro/git/task.masbook.pro" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="ssh://admin_ftp_11@git.masbook.pro/var/www/vhosts/masbook.pro/git/git.masbook.pro" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://192.168.15.15" />
-          <option name="userName" value="develop2" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="http://192.168.15.15/webGroup/MAS-cloud.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/kpi-drive/docs.wiki.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/genbodev/kpidrive.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\OpenServer\domains" />
-  </component>
-  <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
   </component>
 </application>
