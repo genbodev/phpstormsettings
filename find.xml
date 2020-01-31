@@ -15,8 +15,8 @@
     <mask>*.po</mask>
     <mask>*.less</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.twig</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
