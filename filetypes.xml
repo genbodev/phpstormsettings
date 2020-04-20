@@ -15,6 +15,7 @@
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="sccs" type="SCSS" />
       <mapping pattern="*.tp?" type="Twig" />
+      <mapping pattern="1" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
