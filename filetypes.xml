@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="landingFindBuyer" type="JavaScript" />
       <mapping pattern=".gitkeep" type="Native" />
+      <mapping pattern="NotifierHelper" type="PHP" />
       <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping pattern="edfwsfsf" type="PLAIN_TEXT" />
       <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
