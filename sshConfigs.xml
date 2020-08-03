@@ -15,6 +15,8 @@
       <sshConfig authType="PASSWORD" host="192.168.1.150" id="f75a0487-0c4a-48d4-b5bb-27fd933ac076" port="22" customName="vm.kpidrive.backend" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="192.168.1.150" id="c7280e1e-394a-49d1-9d24-865e0e279d69" port="22" customName="vm.kpidrive.frontend" nameFormat="CUSTOM" />
       <sshConfig authType="PASSWORD" host="192.168.1.150" id="c3790056-66b7-4acb-86de-62cf28dafcc6" port="22" customName="vm.kpidrive.backend" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.150" id="21c56196-a615-47b2-8863-648def03acc7" port="22" customName="vm.kpidrive.frontend" nameFormat="CUSTOM" />
+      <sshConfig authType="PASSWORD" host="192.168.1.150" id="14cb4301-b566-4fcb-98c7-f4a43a36c48c" port="22" customName="vm.kpidrive.backend" nameFormat="CUSTOM" />
     </configs>
   </component>
 </application>
