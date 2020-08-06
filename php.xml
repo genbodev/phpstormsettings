@@ -6,7 +6,7 @@
       <interpreter id="c73f15ef-4b80-441d-8b7f-734f824d65a8" name="PHP 7.0" home="C:\OpenServer\modules\php\PHP-7.0\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\OpenServer\modules\php\PHP-7.0\ext\php_xdebug.dll" />
       <interpreter id="9daac0c2-1575-4784-b820-4d4a4a4598b6" name="PHP 7.1 64" home="C:\OSPanel\modules\php\PHP_7.1-x64\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="7ef779e6-f5aa-4214-9e8e-c239894aaf78" name="PHP 7.3 64" home="C:\OSPanel\modules\php\PHP_7.3-x64\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="c0f3c8a4-62f8-4174-9eeb-54f7acecd321" name="PHP 7.4.5" home="C:\OpenServer\modules\php\PHP_7.4\php.exe" debugger_id="php.debugger.XDebug" debugger_extension="C:\OpenServer\modules\php\PHP_7.4\ext\php_xdebug.dll" />
+      <interpreter id="c0f3c8a4-62f8-4174-9eeb-54f7acecd321" name="PHP 7.4.5" home="C:\OpenServer\modules\php\PHP_7.4\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
