@@ -2,170 +2,171 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="2440eb87-c14e-4518-9a63-8e549b5b1d11" name="http://reactjs" url="http://reactjs">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="b9f4e09d-5256-4bf7-b1e3-f43dbbdd7ced" name="http://nodejs" url="http://nodejs">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="db0ee0b5-48ec-4449-afce-7f267d42c7ab" name="http://npm" url="http://npm">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="1fbb21de-db04-4540-85a6-1b64d4719753" name="http://jqwidgets" url="http://jqwidgets">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="a6d2d972-bd1c-4b5e-986d-97d43fbdcfe8" name="vm.kpidrive.frontend" url="http://192.168.1.150">
-        <fileTransfer host="192.168.1.150" port="22" rootFolder="/home/igor/projects/kpidrive/frontend" accessType="SFTP" username="igor" password="dfdadfcbdfd9dfd9">
+        <fileTransfer rootFolder="/home/igor/projects/kpidrive/frontend" accessType="SFTP" host="192.168.1.150" port="22" sshConfigId="6a5dc718-169a-478a-a9fd-20497b8c81d7" sshConfig="vm.kpidrive.frontend" username="igor" password="dfdadfcbdfd9dfd9">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="5a623d07-e655-4063-8d65-9f7715eef6ae" name="vm.kpidrive.backend" url="http://192.168.1.150">
-        <fileTransfer host="192.168.1.150" port="22" rootFolder="/home/igor/projects/go/src" accessType="SFTP" username="igor" password="dfdadfcbdfd9dfd9">
+        <fileTransfer rootFolder="/home/igor/projects/go/src" accessType="SFTP" host="192.168.1.150" port="22" sshConfigId="6a5dc718-169a-478a-a9fd-20497b8c81d7" sshConfig="vm.kpidrive.frontend" username="igor" password="dfdadfcbdfd9dfd9">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="cca9d4af-a9cd-4589-99f6-f03cbfabcb62" name="cssgrid" url="http://cssgrid">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="d5414640-1dd7-49fc-8a49-63727c53d4ee" name="HoneyHunters" url="http://HoneyHunters">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="01467859-7884-4930-b979-4c8f7ad803c4" name="rossko" url="http://rossko">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="ee5b69d7-faeb-4524-9796-0a7da7b5e146" name="mirafox" url="http://mirafox">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="cfc7d4a3-bb49-4b88-b6e4-2392b42e4ed2" name="create-react-app" url="http://create-react-app">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="e01d91d6-4e74-4473-9d45-0939803698df" name="weather" url="http://weather">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="ff457f58-7e35-4a19-b2c5-3863596111d4" name="react" url="http://react">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="fd069ae4-ac6d-465c-8e6e-264041f91f95" name="helloreact" url="http://helloreact">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="1b74e970-322f-468d-a4d7-4be4787d11f8" name="profit1" url="http://profit1">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="68e4a45e-e3a7-4c88-8102-834a43babf1a" name="profit2" url="http://profit2">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="da1d353a-4a57-424e-b374-d20220009bd6" name="profit3" url="http://profit3">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="7dd791ba-d1cc-4b25-9ed4-d3736e2ba650" name="profit" url="http://profit">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="3c914aa4-a42f-4308-9ae9-756559dac4b5" name="framework" url="http://framework">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="5944e4fb-0eb1-488c-a43c-7fa4db08fa8b" name="deckline" url="http://deckline">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="c0434f87-0641-46e5-9189-d8f68263b87c" name="wp-react-redux-blank" url="http://wp-react-redux-blank">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="2c88b794-31f0-4bb2-a373-7857b44d7875" name="umc-crm" url="http://umc-crm">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="199fd7b5-b7a8-43d6-b5ff-5f739fe129cf" name="scentbird" url="http://scentbird">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="686d7e2d-22a7-4079-9493-c5ea56703dee" name="pokedex" url="http://pokedex">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="c794d45a-bcbe-45d7-a967-6725cbe6a056" name="risks" url="http://risks">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="92386c8a-27c5-4d75-a0df-5d0f61740179" name="iter" url="http://iter">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="66c009a7-f536-42b8-8819-b882ace6052a" name="mvc-example" url="http://mvc-example">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="88240a09-4416-4872-adb4-5813eae4713f" name="drawdown" url="http://drawdown">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="22fcd989-f0a1-46f0-bb2a-c4145196e855" name="absolutedrawdown" url="http://absolutedrawdown">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="213ff9a3-6bb3-42dc-82f1-530551690ff2" name="alfa-soft" url="http://alfa-soft">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="47510e78-6910-4315-af4c-fd131002676f" name="shop-script" url="http://shop-script">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="576f6537-b573-4b1c-ba22-4b4f471c3f74" name="sch" url="http://sch">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="d9b299be-f1c3-4e5a-beeb-0ca47a2c5ad5" name="dd" url="http://dd">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="e5e11956-f565-4967-92fb-3d361957d487" name="zend-hello" url="http://zend-hello">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="93d880ed-6f19-4db2-9c91-65ee1237f387" name="fspro" url="http://fspro">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="cd305e86-db7f-498f-b656-61842b24307a" name="KPMGKP" url="http://KPMGKP">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="fe50dc38-4f3d-4b35-beef-4dc43e3fd2f7" name="kpmgkp" url="http://kpmgkp">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="32182810-c348-4279-bde3-a2a13a5b586e" name="mnogosna" url="http://mnogosna">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="4841edbb-85b8-41ec-bb18-8ca70d2487dc" name="mnogosna.ru" url="http://mnogosna.ru">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="bde38b4f-3ce5-4d73-8572-149783f239cc" name="k50" url="http://k50">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="4310ba64-e762-4b38-8a2d-8fd69d5870c8" name="starliner" url="http://starliner">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="8e3c95b1-aaa9-4337-b8df-5f09ad533ab6" name="starliner.local" url="http://starliner.local">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="d53a3ece-9d81-4da6-9fcf-8612baabe67f" name="deckline.local" url="http://deckline.local">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="b7baf089-81a3-4655-97b3-d27cb29a0120" name="test" url="http://test">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="a08d0f36-5198-48e0-aaeb-29a560714d35" name="kpmgkp.local" url="http://kpmgkp.local">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="203f3595-52ef-4e13-8dcf-4509536b6a05" name="starliner-trunk" url="http://starliner-trunk.local">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="452b7209-fd9a-427c-b3ff-745888511be6" name="trademux-framework" url="http://trademux-framework">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="5e27750c-d909-49f5-b35b-485650a13724" name="marketsinvest" url="http://marketsinvest">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="0e074767-7dde-493b-bffe-5c3d6a815c5d" name="aa.panda.api" url="http://aa.panda.api">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="52687eed-4ef5-49b1-8a67-566f46750f62" name="tlaravel.loc" url="http://tlaravel.loc/">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="19aec1ec-2dde-4da6-827f-86f5c74d0516" name="skybit.local" url="http://skybit.local">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="5bed06b7-a075-4562-92c1-ca2aa58af008" name="skybit.local" url="http://skybit.local">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="7b7ca36e-44f4-410d-aab0-539fd41960ae" name="promed.loc" url="http://promed.loc">
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
     </option>
   </component>
