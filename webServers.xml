@@ -171,6 +171,9 @@
       <webServer id="c1a76e3d-6e92-4811-909d-1c8f8cf861a3" name="testbed.local" url="http://testbed.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="fb7af2eb-d83a-4385-a613-fd876fa1a61c" name="testbed2.local" url="http://testbed2.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
