@@ -168,6 +168,9 @@
       <webServer id="7b7ca36e-44f4-410d-aab0-539fd41960ae" name="promed.loc" url="http://promed.loc">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="c1a76e3d-6e92-4811-909d-1c8f8cf861a3" name="testbed.local" url="http://testbed.local">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
