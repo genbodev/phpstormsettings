@@ -1,4 +1,5 @@
 <application>
+  <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="4b9e9bb1-ecab-4913-be23-33e8514d0024" name="PHP 5.6" home="C:\OpenServer\modules\php\PHP-5.6\php.exe" debugger_id="php.debugger.XDebug" />
@@ -7,10 +8,68 @@
       <interpreter id="9daac0c2-1575-4784-b820-4d4a4a4598b6" name="PHP 7.1 64" home="C:\OSPanel\modules\php\PHP_7.1-x64\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="7ef779e6-f5aa-4214-9e8e-c239894aaf78" name="PHP 7.3 64" home="C:\OSPanel\modules\php\PHP_7.3-x64\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="c0f3c8a4-62f8-4174-9eeb-54f7acecd321" name="PHP 7.4.5" home="C:\OpenServer\modules\php\PHP_7.4\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="cf82977e-f988-47b7-b407-7b505195598d" name="PHP 7.2 XAMP" home="C:\xamprtmis\php\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
+      <interpreter name="PHP 7.2 XAMP">
+        <phpinfo binary_type="PHP" php_cgi="C:\xamprtmis\php\php-cgi.exe" php_cli="C:\xamprtmis\php\php.exe" path_separator=";" version="7.2.16">
+          <additional_php_ini />
+          <configuration_file>C:\xamprtmis\php\php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value="C:\xamprtmis\php\PEAR" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Stomp" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="json" />
+            <extension name="ldap" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mongodb" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="openssl" />
+            <extension name="pcre" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
+            <extension name="readline" />
+            <extension name="session" />
+            <extension name="sqlsrv" />
+            <extension name="standard" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlwriter" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
       <interpreter name="PHP 7.4.5">
         <phpinfo binary_type="PHP" php_cgi="C:\OpenServer\modules\php\PHP_7.4\php-cgi.exe" php_cli="C:\OpenServer\modules\php\PHP_7.4\php.exe" path_separator=";" version="7.4.5">
           <additional_php_ini />
