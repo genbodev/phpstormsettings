@@ -1,5 +1,4 @@
 <application>
-  <component name="PhpDebugGeneral" xdebug_resolve_breakpoints="false" />
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter id="4b9e9bb1-ecab-4913-be23-33e8514d0024" name="PHP 5.6" home="C:\OpenServer\modules\php\PHP-5.6\php.exe" debugger_id="php.debugger.XDebug" />
@@ -8,12 +7,12 @@
       <interpreter id="9daac0c2-1575-4784-b820-4d4a4a4598b6" name="PHP 7.1 64" home="C:\OSPanel\modules\php\PHP_7.1-x64\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="7ef779e6-f5aa-4214-9e8e-c239894aaf78" name="PHP 7.3 64" home="C:\OSPanel\modules\php\PHP_7.3-x64\php.exe" debugger_id="php.debugger.XDebug" />
       <interpreter id="c0f3c8a4-62f8-4174-9eeb-54f7acecd321" name="PHP 7.4.5" home="C:\OpenServer\modules\php\PHP_7.4\php.exe" debugger_id="php.debugger.XDebug" />
-      <interpreter id="cf82977e-f988-47b7-b407-7b505195598d" name="PHP 7.2 XAMP" home="C:\xamprtmis\php\php.exe" debugger_id="php.debugger.XDebug" />
+      <interpreter id="cf82977e-f988-47b7-b407-7b505195598d" name="PHP 7.2.16 XAMP" home="C:\xamprtmis\php\php.exe" debugger_id="php.debugger.XDebug" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="PHP 7.2 XAMP">
+      <interpreter name="PHP 7.2.16 XAMP">
         <phpinfo binary_type="PHP" php_cgi="C:\xamprtmis\php\php-cgi.exe" php_cli="C:\xamprtmis\php\php.exe" path_separator=";" version="7.2.16">
           <additional_php_ini />
           <configuration_file>C:\xamprtmis\php\php.ini</configuration_file>
