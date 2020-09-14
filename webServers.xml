@@ -162,7 +162,7 @@
       <webServer id="19aec1ec-2dde-4da6-827f-86f5c74d0516" name="skybit.local" url="http://skybit.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
-      <webServer id="5bed06b7-a075-4562-92c1-ca2aa58af008" name="skybit.local" url="http://skybit.local">
+      <webServer id="5bed06b7-a075-4562-92c1-ca2aa58af008" name="skybit.local (1)" url="http://skybit.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="7b7ca36e-44f4-410d-aab0-539fd41960ae" name="promed.loc" url="http://promed.loc">
