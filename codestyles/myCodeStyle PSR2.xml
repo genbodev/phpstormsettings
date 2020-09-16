@@ -5,6 +5,7 @@
       <option name="SMART_TABS" value="true" />
     </value>
   </option>
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
