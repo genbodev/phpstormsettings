@@ -171,6 +171,12 @@
       <webServer id="18f67587-f158-4c13-ad74-0c93a95641de" name="webpack-course.local" url="http://webpack-course.local">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="592276b4-5f97-4b7c-a52a-2681c8c6474d" name="testbed.frontend" url="http://testbed.frontend">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+      <webServer id="c2b56461-d2f8-4934-aa57-214439d65cd4" name="testbed.backend" url="http://testbed.backend">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
